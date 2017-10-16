@@ -6,6 +6,11 @@
  * [跟兄弟连学PHP](http://img.tj991.com/bookphp/%E8%B7%9F%E5%85%84%E5%BC%9F%E8%BF%9E%E5%AD%A6PHP.pdf)
  * [深入理解php：高级技巧、面向对象与核心技术](http://img.tj991.com/bookphp/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0php.pdf)
 
+
+## ubuntu
+
+[Linux从入门到精通(第2版)](http://img.tj991.com/book/other/Linux%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%28%E7%AC%AC2%E7%89%88%29.pdf)
+
 ## js
 
  * [ES6标准入门](http://img.tj991.com/bookphp/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
